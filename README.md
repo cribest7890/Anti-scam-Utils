@@ -3,4 +3,4 @@ this is the repository of the "Anti-scam Utils" browser extension
 
 # How to install?
 download the .crx file from the files or from the release page
-then go on your favourite chromium-based browser, visit: [the extensions manager](chrome://extensions) and turn on developer options, then drag the .crx file on the page and accept the popup that asks if you want to add the extension, and you're done!!
+then go on your favourite chromium-based browser, visit: <a href="chrome://extensions" target="_blank" rel="noopener noreferrer">the extensions manager</a> and turn on developer options, then drag the .crx file on the page and accept the popup that asks if you want to add the extension, and you're done!!

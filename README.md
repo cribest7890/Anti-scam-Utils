@@ -1,7 +1,7 @@
 # Anti-scam-Utils
 <p align="center">
   <a href="https://addons.mozilla.org/en-GB/firefox/addon/anti-scam-utils/">
-    <img src="img/firefox-logo-horizontal-lockup.svg" alt="on_firefox" width="360">
+    <img src="img/firefox-logo-horizontal-lockup.svg" alt="on_firefox" width="240">
   </a>
 </p>
 

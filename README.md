@@ -1,5 +1,8 @@
 # Anti-scam-Utils
-<img src="img/firefox-logo-horizontal-lockup.svg" alt="on_firefox">
+<img src="img/firefox-logo-horizontal-lockup.svg" 
+     alt="on_firefox" 
+     style="display: block; margin: 0 auto; width: 360px;">
+
 this is the repository of the "Anti-scam Utils" browser extension
 
 # How to install?
